@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+    background-color: lightpink;
+}
+
+header{
+    background-color: lightpink;
+    padding: 10;
+    margin: 15;
+}
+
+header a{
+    text-decoration: none;
+    color: chocolate;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 5 px;
+    background-color: lightcyan;
+    border: 3px solid brown;
+}
+
+h1{
+    color: lightgrey;
+    background-color: lightsalmon;
+    border: 1px solid lightgrey;
+    text-align: center;
+}
+
+footer p{
+    color: lightseagreen;
+    border: 2px solid pink;
+    background-color: white;
+}
+
+nav{
+    margin: 10px;
+    padding: 10 px;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 30px;
+    padding: 5px;
+    color: blueviolet;
+    border: 5px solid lightgreen;
+    background-color: white;
+    border-radius: 20px;
+}
+
+p img{
+    background-color: lightcoral;
+}
+
+main p{
+    color: brown;
+}
+
+h2{
+    color: crimson;
+}
+
+main a{
+    color: darkgoldenrod;
+    text-decoration: none;
+    border: 3px solid brown;
+    border-radius: 20px;
+    background-color: white;
+    padding: 5px;
+}
